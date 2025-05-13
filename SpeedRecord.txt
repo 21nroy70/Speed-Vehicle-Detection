@@ -1,0 +1,13 @@
+ID	SPEED (mph)
+---	-----------
+2	157 <---exceeded
+3	154 <---exceeded
+10	104 <---exceeded
+16	111 <---exceeded
+7	100 <---exceeded
+24	124 <---exceeded
+18	117 <---exceeded
+6	147 <---exceeded
+19	115 <---exceeded
+21	136 <---exceeded
+37	85 <---exceeded
