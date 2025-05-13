@@ -1,7 +1,7 @@
 # Speed-Vehicle-Detection
 
 to execute code of prototype 1: streamlit run app.py
-Should display to QR code after uploading input.mp4 video with the output of protype 2 model which uses Yolo v8 for improvments
+<tb> This thould display to QR code after uploading input.mp4 video with the output of protype 2 model which uses Yolo v8 for improvments
 
 
 
