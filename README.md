@@ -14,3 +14,9 @@ The 2nd protype as we mentioned in presentation to better enhance speed detectio
 
 Link to the full input video of the large file (too big to upload on Github) as an traffic4.mp4 file: https://drive.google.com/file/d/1nxEclEAx0jUsXp8MBQkVgB3j777viYJ6/view?usp=drive_link
 
+
+<br> Build the Docker Image: 
+<br> docker build -t speed-vehicle-detection .
+
+<br> Run the Docker Container:
+<br> docker run -d -p 5000:5000 speed-vehicle-detection
