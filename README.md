@@ -10,7 +10,7 @@ The 2nd protype as we mentioned in presentation to better enhance speed detectio
 
 <br> You can run these into google colabs - as that is what we created them in. 
 
-<br> However, for the first protype, make sure to have these files: tracker.py, SpeedRadar.py, app.py, and the input.mp4 videos. Then aftering using "streamlit run app.py" on the command line, it should take you to a streamlit local host page and there you can play around with the speed limit and buffer sliders on the left side, and then drag/upload the input.mp4 file in. Then, after processing, it shoukd return the processed video as well as a QR code generated leading to the 2nd protype output - which was created through the 2 google colab files mentioned earlier. 
+<br> However, for the first protype, make sure to have these files: tracker.py, SpeedRadar.py, app.py, and the input.mp4 videos. Then aftering using "streamlit run app.py" on the command line, it should take you to a streamlit local host page and there you can play around with the speed limit and buffer sliders on the left side, and then drag/upload the sample.mp4 file in. Then, after processing, it shoukd return the processed video as well as a QR code generated leading to the 2nd protype output - which was created through the 2 google colab files mentioned earlier. 
 
 Link to the full input video of the large file (too big to upload as an .mp4 file: https://drive.google.com/file/d/1nxEclEAx0jUsXp8MBQkVgB3j777viYJ6/view?usp=drive_link
 
